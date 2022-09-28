@@ -1,5 +1,11 @@
 # App usage 
 
+1) How to start this project ? You can use ### `npm start`.
+2) In the project there are 3 components ... main component `InputForm`, there are all functions for the project.
+3) To search currency you can use a search bar and write for example USD/EUR.
+4) When searching for a certain currency drop down will appear, where you can see all possible variations of currency pairs available for entered string.
+5) Find currency you can use the `Search` button.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
